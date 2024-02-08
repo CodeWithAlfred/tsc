@@ -1,0 +1,4 @@
+//First ts code
+Let name:string = "Alfred Juma"
+Let tag:string = "code with alfred"
+console.log(`I am ${name} and my tagline is & {tag}`) 
